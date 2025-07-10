@@ -140,7 +140,7 @@ export default function Home() {
 
       @font-face {
   font-family: 'Supermolot Bold';
-  src: url('https://raw.githubusercontent.com/0xNexar/union-checker-app/main/Supermolot-Bold.ttf') format('truetype');
+  src: url('https://raw.githubusercontent.com/0xNexar/UnionBuild-Checker/main/fonts/Supermolot-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
